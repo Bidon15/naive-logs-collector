@@ -11,4 +11,4 @@ at least some info on test pods' logs
 
 ### Artifacts
 
-v1 and v2 dirs contains .json files taken from k8s pods
+`<number>-<group-id>.log` format in root
